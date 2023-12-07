@@ -1,0 +1,1 @@
+The name of the solver DPMFoam was only changed: the source code file and the file called 'files' within the directory known 'Make/files'. Such file also includes a full path and name of the compiled executable.
